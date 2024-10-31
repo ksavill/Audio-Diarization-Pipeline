@@ -1,0 +1,10 @@
+ffmpeg-python
+speechbrain
+soundfile
+torch
+pydub
+openai-whisper
+pyannote.core
+pyannote.audio
+tqdm
+demucs
